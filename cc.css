@@ -1,0 +1,7 @@
+.fun {
+    image-resolution: snap;
+    background-image: url();
+    background-size: 90%;
+    border: solid #000 dotted;
+    grid-auto-rows: ;
+}
